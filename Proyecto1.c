@@ -74,6 +74,8 @@ int main()
     int eleccion;
 	int numero;
 
+	printf("Probando...");
+
 	while(eleccion != -1)
     {
 		printf("\n--BIENVENIDO--\n1.- Agregar\n2.- Eliminar\n3.- Imprimir pila\n4.- Imprimir tamanio\n5.- Comprobar si está vacia\n6.- Mostrar ultimo elemento\n-1.- Salir\n\n\tElige: ");

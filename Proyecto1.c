@@ -74,7 +74,7 @@ int main()
     int eleccion;
 	int numero;
 
-	printf("Probando...");
+	printf("Prueba numero 3");
 
 	while(eleccion != -1)
     {
